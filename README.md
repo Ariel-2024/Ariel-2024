@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ariel
-- 👀 I’m interested in Web development,Web3 and Defi
-- 🌱 I’m currently learning HTML,CSS And JavaScript and i am taking a class on Defi
+- 👋 Hi, I’m @Opemipo
+- 👀 I’m interested in Web development and Tech
+- 🌱 I’m currently learning HTML,CSS And JavaScript a
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
